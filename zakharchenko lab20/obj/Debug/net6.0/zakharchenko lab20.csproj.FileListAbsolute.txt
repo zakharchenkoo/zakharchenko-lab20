@@ -1,0 +1,26 @@
+C:\Users\Hp\Desktop\zakharchenko lab20\zakharchenko lab20\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Hp\Desktop\zakharchenko lab20\zakharchenko lab20\bin\Debug\net6.0\appsettings.json
+C:\Users\Hp\Desktop\zakharchenko lab20\zakharchenko lab20\bin\Debug\net6.0\zakharchenko lab20.staticwebassets.runtime.json
+C:\Users\Hp\Desktop\zakharchenko lab20\zakharchenko lab20\bin\Debug\net6.0\zakharchenko lab20.exe
+C:\Users\Hp\Desktop\zakharchenko lab20\zakharchenko lab20\bin\Debug\net6.0\zakharchenko lab20.deps.json
+C:\Users\Hp\Desktop\zakharchenko lab20\zakharchenko lab20\bin\Debug\net6.0\zakharchenko lab20.runtimeconfig.json
+C:\Users\Hp\Desktop\zakharchenko lab20\zakharchenko lab20\bin\Debug\net6.0\zakharchenko lab20.dll
+C:\Users\Hp\Desktop\zakharchenko lab20\zakharchenko lab20\bin\Debug\net6.0\zakharchenko lab20.pdb
+C:\Users\Hp\Desktop\zakharchenko lab20\zakharchenko lab20\obj\Debug\net6.0\zakharchenko lab20.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\zakharchenko lab20\zakharchenko lab20\obj\Debug\net6.0\zakharchenko lab20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\zakharchenko lab20\zakharchenko lab20\obj\Debug\net6.0\zakharchenko lab20.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\zakharchenko lab20\zakharchenko lab20\obj\Debug\net6.0\zakharchenko lab20.AssemblyInfo.cs
+C:\Users\Hp\Desktop\zakharchenko lab20\zakharchenko lab20\obj\Debug\net6.0\zakharchenko lab20.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\zakharchenko lab20\zakharchenko lab20\obj\Debug\net6.0\zakharchenko lab20.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hp\Desktop\zakharchenko lab20\zakharchenko lab20\obj\Debug\net6.0\zakharchenko lab20.RazorAssemblyInfo.cache
+C:\Users\Hp\Desktop\zakharchenko lab20\zakharchenko lab20\obj\Debug\net6.0\zakharchenko lab20.RazorAssemblyInfo.cs
+C:\Users\Hp\Desktop\zakharchenko lab20\zakharchenko lab20\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Hp\Desktop\zakharchenko lab20\zakharchenko lab20\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Hp\Desktop\zakharchenko lab20\zakharchenko lab20\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Hp\Desktop\zakharchenko lab20\zakharchenko lab20\obj\Debug\net6.0\scopedcss\bundle\zakharchenko lab20.styles.css
+C:\Users\Hp\Desktop\zakharchenko lab20\zakharchenko lab20\obj\Debug\net6.0\scopedcss\projectbundle\zakharchenko lab20.bundle.scp.css
+C:\Users\Hp\Desktop\zakharchenko lab20\zakharchenko lab20\obj\Debug\net6.0\zakharchenko lab20.dll
+C:\Users\Hp\Desktop\zakharchenko lab20\zakharchenko lab20\obj\Debug\net6.0\refint\zakharchenko lab20.dll
+C:\Users\Hp\Desktop\zakharchenko lab20\zakharchenko lab20\obj\Debug\net6.0\zakharchenko lab20.pdb
+C:\Users\Hp\Desktop\zakharchenko lab20\zakharchenko lab20\obj\Debug\net6.0\zakharchenko lab20.genruntimeconfig.cache
+C:\Users\Hp\Desktop\zakharchenko lab20\zakharchenko lab20\obj\Debug\net6.0\ref\zakharchenko lab20.dll

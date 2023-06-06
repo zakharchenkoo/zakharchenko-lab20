@@ -1,0 +1,21 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4"> Підрахунок кількості вибраних рядків</h1>
+   
+    <!-- Форма для введення тексту -->
+<form method="post" action="/Home/CountLines">
+    <textarea name="inputText" rows="5" cols="40"></textarea>
+
+    <button type="submit">Рахунок</button>
+</form>
+
+<!-- Результат підрахунку кількості рядків -->
+    @if (!string.IsNullOrEmpty(ViewBag.Result))
+    {
+        <div>Результат: @ViewBag.Result</div>
+    }
+
+</div>
